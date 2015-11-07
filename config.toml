@@ -1,3 +1,4 @@
 baseurl = "http://new.robnugen.com/"
 languageCode = "en-us"
 title = "Keep pushing the limits"
+MetaDataFormat = "yaml"
