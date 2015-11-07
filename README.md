@@ -11,6 +11,14 @@
     hugo server --theme=cactus          O  O               E              (links About page) (compiles with errors)
     hugo server --theme=detox           O     O   O                       (dates on index)  (paginates the top index)
 
+                                        samp  samp  samp
+                                        link  page  vsbl
+    hugo server --theme=purehugo
+    hugo server --theme=herring-cove
+    hugo server --theme=gindoro
+    hugo server --theme=cactus            O     O     O
+    hugo server --theme=detox                   O     O
+
     hugo server --theme=heather-hugo              O                       (preview entry on top list)
     hugo server --theme=hyde            O         O                S
     hugo server --theme=hugo-zen        O
